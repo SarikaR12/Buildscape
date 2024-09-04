@@ -1,0 +1,119 @@
+@media(max-width:1200px){
+
+}
+@media(max-width:992px){
+    .banner .construction-data h1{
+        font-size: 80px;
+    }
+    .banner .scape a{
+        font-size: 20px;
+    }
+    .banner .scape{
+        padding: 20px;
+    }
+    .services .future-data1 h2{
+        font-size: 44px;
+    }
+    .success .future-data1 h2{
+        font-size: 44px;
+    }
+    .success .followers h2{
+        font-size: 44px;
+    }
+    .testimonial .future-data1 h2{
+        font-size: 44px;
+    }
+}
+@media(max-width:768px){
+    .banner .construction-data h1{
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .banner .scape a{
+        font-size: 16px;
+    }
+    .banner .scape{
+        padding: 16px;
+    }
+    .services .future-data1 h2{
+        font-size: 32px;
+    }
+    .choose .future-data p{
+        font-size: 14px;
+    }
+    .choose .future-data1 h2{
+        font-size: 32px;
+    }
+    .choose .choose-point .choose-data p{
+        font-size: 18px;
+    }
+    .success .future-data1 h2{
+        font-size: 32px;
+    }
+    .success .followers h2{
+        font-size: 32px;
+    }
+    .success{
+        padding: 90px;
+    }
+    .services .row{
+        --bs-gutter-y:32px;
+    }
+    .chose .choose-data i{
+        padding: 10px;
+        font-size: 12px;
+    }
+    .testimonial .card{
+        height: 260px;
+        width: 268px;
+        width: 100%;
+        padding:  15px;
+        border: 1px solid rgba(0,0,0,0.1);
+    }
+    
+    .testimonial .future-data1 h2{
+        font-size: 32px;
+    }
+    .testimonial .carousel-inner .card p{
+        font-size: 18px;
+    } 
+    .testimonial .card .level p{
+        font-size: 16px;
+    }
+    footer .f-img img{
+        width: 0;
+    }
+    footer .footer-data{
+        padding: 40px 0 20px 0;
+    }
+    footer .footer-inner{
+        transform: translate(0%);
+    }
+}
+@media(max-width:576px){
+    .banner .construction-data h1{
+        font-size: 42px;
+    }
+    .banner{
+        background-position: 70% 38%;
+    }
+    .banner .scape a{
+        font-size: 12px;
+        padding: 10px;
+    }
+    .banner .scape{
+        padding: 12px;
+    }
+    .choose .future-data1 h2{
+        font-size: 28px;
+    }
+    footer img{
+        width: 113px;
+    }
+    footer .footer-main ul{
+        margin-top: 20px;
+    }
+    footer .footer-mid{
+        margin: 20px 0 20px;
+    }
+}
